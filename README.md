@@ -1,6 +1,6 @@
 # flutterappforprovider
 
-A new Flutter application.
+Flutterの`package:provider`の初級編
 
 ## Getting Started
 
